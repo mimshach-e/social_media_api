@@ -28,7 +28,7 @@ SECRET_KEY = "e0e7vksx_n=-nb@=g@5z9%l!ac9tzxxq=of&(!w(pc86!=^^ym"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['heroku-social-media-app-12ed4c793fe1.herokuapp.com']
+ALLOWED_HOSTS = ['https://heroku-social-media-app-12ed4c793fe1.herokuapp.com/']
 
 
 # Security settings

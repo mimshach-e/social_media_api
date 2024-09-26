@@ -1,1 +1,1 @@
-web: gunicorn heroku-social-media-app.wsgi
+web: gunicorn social_media_api.wsgi

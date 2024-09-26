@@ -1,4 +1,4 @@
-# from django.http import HttpResponse
+from django.http import HttpResponse
 
-# def home(request):
-#     return HttpResponse("Welcome to the Social Media API!")
+def home(request):
+    return HttpResponse("Welcome to the Social Media App API!")

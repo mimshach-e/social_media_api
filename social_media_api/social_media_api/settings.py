@@ -29,7 +29,7 @@ SECRET_KEY = "e0e7vksx_n=-nb@=g@5z9%l!ac9tzxxq=of&(!w(pc86!=^^ym"
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'heroku-social-media-app-5d5ee7319f92.herokuapp.com',
+    'heroku-social-media-app-5d5ee7319f92.herokuapp.com', 'localhost', '127.0.0.1',
 ]
 
 

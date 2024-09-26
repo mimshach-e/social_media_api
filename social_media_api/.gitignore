@@ -1,0 +1,8 @@
+ven/
+profile_pics/
+*.pyc
+db.sqlite3
+/static
+.env
+*.log
+/media
